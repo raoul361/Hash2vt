@@ -22,4 +22,4 @@ pip install re
 
 ## API Key
 
-Requires a virustotal.com (free) API key.
+Requires a [virustotal.com] (https://www.virustotal.com/en/documentation/virustotal-community/) (free) API key.
